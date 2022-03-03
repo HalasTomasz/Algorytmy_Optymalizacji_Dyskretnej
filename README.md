@@ -12,4 +12,4 @@ d)  Algorithm to detect Bipartite Graph
 
 List nr 2:
 
-Using Jump in Julia find optimal solutions to given problems. 
+Using Jump in Julia in order to find optimal solutions to given problems. 
