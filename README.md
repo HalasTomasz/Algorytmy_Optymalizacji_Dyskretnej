@@ -1,4 +1,4 @@
-Taks made during course Discrete Optimization Algorithms
+Tasks made during course Discrete Optimization Algorithms
 
 List nr 1:
 a)  Implementation of DFS and BFS 
